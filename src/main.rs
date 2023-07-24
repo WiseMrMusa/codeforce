@@ -8,7 +8,11 @@
 // mod bitpp;
 // mod beautiful_matrix;
 // mod petya_and_strings;
-mod helpful_maths;
+// mod helpful_maths;
+// mod word_capitalization;
+// mod boy_or_girl;
+// mod stones_on_the_table;
+mod bear_and_big_brother;
 
 fn main(){
     // watermelon::main();
@@ -21,7 +25,11 @@ fn main(){
     // bitpp::main();
     // beautiful_matrix::main();
     // petya_and_strings::main();
-    helpful_maths::main();
+    // helpful_maths::main();
+    // word_capitalization::main();
+    // boy_or_girl::main();
+    // stones_on_the_table::main();
+    bear_and_big_brother::main();
 
 
 }
