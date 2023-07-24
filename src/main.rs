@@ -5,7 +5,10 @@
 // mod team;
 // mod next_round;
 // mod domino_pilling;
-mod bitpp;
+// mod bitpp;
+// mod beautiful_matrix;
+// mod petya_and_strings;
+mod helpful_maths;
 
 fn main(){
     // watermelon::main();
@@ -15,6 +18,10 @@ fn main(){
     // team::main();
     // next_round::main();
     // domino_pilling::main();
-    bitpp::main();
+    // bitpp::main();
+    // beautiful_matrix::main();
+    // petya_and_strings::main();
+    helpful_maths::main();
+
 
 }
