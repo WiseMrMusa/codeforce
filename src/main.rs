@@ -12,7 +12,12 @@
 // mod word_capitalization;
 // mod boy_or_girl;
 // mod stones_on_the_table;
-mod bear_and_big_brother;
+// mod bear_and_big_brother;
+// mod soldier_and_banana;
+// mod elephant;
+// mod word;
+// mod wrong_subtraction;
+mod nearly_lucky_number;
 
 fn main(){
     // watermelon::main();
@@ -29,7 +34,12 @@ fn main(){
     // word_capitalization::main();
     // boy_or_girl::main();
     // stones_on_the_table::main();
-    bear_and_big_brother::main();
+    // bear_and_big_brother::main();
+    // soldier_and_banana::main();
+    // elephant::main();
+    // word::main();
+    // wrong_subtraction::main();
+    nearly_lucky_number::main();
 
 
 }
